@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fake dns</string>
+    <string name="dns_ip">RESPONSE IP :</string>
+</resources>
